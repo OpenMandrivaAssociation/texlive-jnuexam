@@ -1,6 +1,6 @@
 Name:		texlive-jnuexam
 Version:	56867
-Release:	1
+Release:	2
 Summary:	Exam class for Jinan University
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jnuexam
