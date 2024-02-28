@@ -1,5 +1,5 @@
 Name:		texlive-jnuexam
-Version:	69161
+Version:	70117
 Release:	1
 Summary:	Exam class for Jinan University
 Group:		Publishing
