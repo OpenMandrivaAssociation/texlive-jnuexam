@@ -3,7 +3,7 @@ Version:	71883
 Release:	1
 Summary:	Exam class for Jinan University
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jnuexam
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/jnuexam
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jnuexam.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jnuexam.doc.r%{version}.tar.xz
